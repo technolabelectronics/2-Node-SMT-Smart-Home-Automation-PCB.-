@@ -31,6 +31,8 @@ Once you have your Gerber files, you can order the PCB. Follow the next steps.
 
 After uploading the zip file, you’ll see a success message at the bottom if the file is successfully uploaded. You can review the PCB in the Gerber viewer to make sure everything is good. jlcpcb can grab all the PCB details and automatically fills them for you.
 
+Before finalizing your order you can use the promotional code # JLC-REBE to get a discount and then click pay.
+
 # Video Tutorial.
 
 https://youtu.be/AicJJkKc_l8
